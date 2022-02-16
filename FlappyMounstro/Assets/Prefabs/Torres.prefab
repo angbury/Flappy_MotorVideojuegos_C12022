@@ -84,7 +84,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 000000
+        actionIsOpen: 010000
         actionStartIndex: 000000000a00000011000000
         actionHashCodes: b03274005552ad051bcdca04
         unityObjectParams: []
@@ -195,7 +195,7 @@ MonoBehaviour:
         - ir Destruir
         - ir Destruir
         - 
-        byteData: 0100000001010000000000000101
+        byteData: 0000000001010000000000000101
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
